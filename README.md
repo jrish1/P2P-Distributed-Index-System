@@ -45,6 +45,7 @@ Exiting code and re-Execution
 - For RS, the port "65423" has to be freed before re execution. Execute the below two steps for the same
 
 sudo lsof -i:65423
+
 sudo kill =p <PID>
 
 ====================================================================================================================================
