@@ -21,10 +21,12 @@ Code Execution
 --------------
 
 -Executing RS (Registry Server) code
- python RS.py
+
+python RS.py
 
 -Executing peer code
- python peer.py
+
+python peer.py
 
   Peer Client Input options:
   1. Register peer with the Registry Server
